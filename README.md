@@ -14,3 +14,7 @@ Prompt engineering with ChatGPT allowed me to use Python data parsing functional
 I wasn't familiar with. 
 
 Original image sources:
+Discord Bot Profile Picture
+    https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fgrunge-and-that--862157922424335275%2F&psig=AOvVaw3M0B09EiCOk1oBBe8H_WYO&ust=1742237394380000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIil25uij4wDFQAAAAAdAAAAABAE
+Discord Bot Banner
+    https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theguardian.com%2Fmusic%2F2021%2Foct%2F07%2Fthe-cover-is-supposed-to-be-provocative-the-daunting-task-of-redesigning-nirvanas-nevermind&psig=AOvVaw1nnxfys3nGyypH_NZyCn3N&ust=1742237413655000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJC4lKeij4wDFQAAAAAdAAAAABAE
